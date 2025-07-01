@@ -1,0 +1,28 @@
+[{
+  "name": "Chandranshu Bhardwaj",
+  "roll_no": "102203797",
+  "branch": "COE",
+  "arrival_date": "2025-07-04",
+  "arrival_time": "15:00",
+  "departure_date": "2025-07-05",
+  "stay_duration": "1 night",
+  "purpose": "Work in Admin Office",
+  "staying_in": "Friend's room",
+  "hostel": "Yes",
+  "notes": "Will leave early on Saturday morning"
+},
+{
+  "name": "Aarav Mehta",
+  "roll_no": "102204321",
+  "branch": "ECE",
+  "arrival_date": "2025-07-11",
+  "arrival_time": "14:30",
+  "departure_date": "2025-07-12",
+  "stay_duration": "1 night",
+  "purpose": "Library access and academic meeting",
+  "staying_in": "Friend's room in Hostel E",
+  "hostel": "Yes",
+  "notes": "Will leave by 6:00 AM on Saturday"
+}
+
+]
